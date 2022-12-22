@@ -298,6 +298,7 @@ main {
   .hero-banner {
     justify-content: center;
     text-align: center;
+    line-height: 1.5rem;
   }
 
   .contact address {
@@ -305,6 +306,6 @@ main {
     align-items: flex-start;
   }
   #self-image {
-    max-block-size: 95px;
+    max-block-size: 125px;
   }
 }
