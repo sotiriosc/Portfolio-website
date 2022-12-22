@@ -4,11 +4,11 @@
 
 /* brand color palette */
 :root {
-  --primary: rgb(109, 12, 120);
-  --secondary: rgb(233, 245, 102);
-  --tertiary: rgb(125, 15, 95);
-  --dark: rgb(14, 30, 93);
-  --light: rgb(233, 146, 243);
+  --primary: rgb(201, 220, 232);
+  --secondary: rgb(67, 63, 132);
+  --tertiary: rgb(119, 72, 119);
+  --dark: rgb(194, 194, 198);
+  --light: rgb(109, 32, 116);
 }
 
 body {
