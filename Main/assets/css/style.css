@@ -99,6 +99,7 @@ main {
   justify-content: center;
   align-items: flex-end;
   text-align: right;
+  margin-left: 1px;
 }
 
 .hero-banner div {
