@@ -247,7 +247,7 @@ main {
 #self-image {
  block-size: 200px;
  flex-wrap: wrap;
- justify-content: flex-start;
+ justify-content: baseline;
  margin-left: 25px;
  padding-left: 25px;
 }
