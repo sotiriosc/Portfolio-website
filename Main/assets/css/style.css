@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-/* brand color palette */
+/* brand color palette - Tried to ensure originality and aesthetic beauty*/
 :root {
   --primary: rgb(89, 186, 246);
   --secondary: rgb(67, 63, 132);
@@ -244,16 +244,18 @@ main {
   background-image: url("../images/02-portfolio-4.jpg");
   background-size: calc(100%);
 }
-
+/* Styled self portrait to have a border radius and shadow */
 #self-image {
  block-size: 200px;
  flex-wrap: wrap;
  justify-content: baseline;
  border-radius: 12%;
- box-shadow: 10px 10px rgb(81, 98, 129);
+ box-shadow: 6px 6px rgb(81, 98, 129);
 }
 
 /* end portfolio project images */
+
+/* Utilized media screen funtion to ensure responsive design across all platforms */
 
 @media screen and (max-width: 980px) {
   header {
