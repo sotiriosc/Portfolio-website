@@ -248,6 +248,7 @@ main {
  block-size: 200px;
  flex-wrap: wrap;
  justify-content: baseline;
+ border-radius: 12%;
 }
 
 /* end portfolio project images */
