@@ -96,7 +96,7 @@ main {
   color: var(--light);
   padding: 2% 6%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: flex-end;
   text-align: right;
   margin-left: 0px;
@@ -250,6 +250,7 @@ main {
  flex-wrap: wrap;
  justify-content: baseline;
  border-radius: 12%;
+ box-shadow: 10px 10px rgb(81, 98, 129);
 }
 
 /* end portfolio project images */
