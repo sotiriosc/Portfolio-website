@@ -100,7 +100,6 @@ main {
   align-items: flex-end;
   text-align: right;
   margin-left: 0px;
-  line-height: 2rem;
 }
 
 .hero-banner div {
@@ -113,7 +112,7 @@ main {
   margin: 0;
   padding: 5px 10px;
   font-size: 2.3rem;
-  line-height: 1.2;
+  line-height: 1.5;
   display: inline;
 }
 
@@ -303,7 +302,6 @@ main {
   .hero-banner {
     justify-content: center;
     text-align: center;
-    line-height: 1.5rem;
   }
 
   .contact address {
