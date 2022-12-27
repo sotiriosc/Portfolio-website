@@ -4,7 +4,7 @@
 
 /* brand color palette - Tried to ensure originality, aesthetics and beauty*/
 :root {
-  --primary: rgb(123, 215, 255);
+  --primary: rgba(8, 32, 43, 0.827);
   --secondary: rgb(67, 63, 132);
   --tertiary: rgb(166, 26, 166);
   --dark: rgb(67, 67, 144);
