@@ -29,9 +29,8 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-* The URL of the deployed application: https://sotiriosc.github.io/Portfolio-website/
 
-* The URL of the GitHub repository: https://github.com/sotiriosc/Portfolio-website
+
 
 
 # My Expirience
@@ -40,6 +39,6 @@ I did my best to utilize the tools I have acquired so far durring the course to 
 
 [Image-of-website](./Main/assets/images/Screenshot_20230102_205856_Chrome.jpg)
 
-Live URL: https://github.com/sotiriosc/Portfolio-website
+* The URL of the deployed application: https://sotiriosc.github.io/Portfolio-website/
 
-GitHub URL: https://sotiriosc.github.io/Portfolio-website/
+* The URL of the GitHub repository: https://github.com/sotiriosc/Portfolio-website
