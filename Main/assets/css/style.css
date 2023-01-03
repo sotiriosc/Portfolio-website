@@ -109,8 +109,8 @@ main {
   flex: 0 0 90%;
 }
 
+/* Adjusted line height to correct over lap when screen is downsized */
 .hero-banner h2 {
-  /* background-color: var(--secondary); */
   color: var(--tertiary);
   margin: 0;
   padding: 5px 10px;
