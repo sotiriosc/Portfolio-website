@@ -32,3 +32,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * The URL of the deployed application: https://sotiriosc.github.io/Portfolio-website/
 
 * The URL of the GitHub repository: https://github.com/sotiriosc/Portfolio-website
+
+
+# My Expirience
+
+I did my best to utilize the tools I have acquired so far durring the course to adjust the style of my website. I also ensured that all components of the website are displayed correctly across different platforms. 
