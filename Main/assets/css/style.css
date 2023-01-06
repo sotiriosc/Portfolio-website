@@ -211,7 +211,7 @@ main {
   font-size: 1.3rem;
   font-style: normal;
   /* adjusted colors to improve contrast and visibility */
-  background-image: linear-gradient(270deg, white 0%, white 100%);
+  background-image: linear-gradient(270deg, white 0%, rgb(237, 177, 201) 100%);
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
   background-position: bottom;
